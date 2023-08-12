@@ -1,9 +1,16 @@
 # Somniary by [Cat-Scratch-Feev](https://github.com/Cat-Scratch-Feev)
+![Screenshot](./public/images/landing.png)
+[![MIT](https://img.shields.io/badge/MIT-License-green.svg)](https://opensource.org/licenses/MIT)
+![Handlebars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Description
 ---
-[![MIT](https://img.shields.io/badge/MIT-License-green.svg)](https://opensource.org/licenses/MIT)
-
 Here at the Somniary team, we believe that dreams hold immense value, not only as personal experiences but also as stories meant to be shared. In our quest to find a convenient way to record and recall our dreams, we created The Dreamspace.
 <br>
 <br>
@@ -21,9 +28,6 @@ The Dreamspace Collective is a gathering of wandering dreams from all around the
 * [Features](#features)
 * [Future Features](#future-features)
 * [License](#license)
-
-![Screenshot](./public/images/landing.png)
-  
 
 ## Credits
 ---
